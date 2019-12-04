@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "633104210759",
+    "firebase_url": "https://xchange-gift.firebaseio.com",
+    "project_id": "xchange-gift",
+    "storage_bucket": "xchange-gift.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633104210759:android:4151e7d6ffa66fe3a40a62",
+        "android_client_info": {
+          "package_name": "com.example.FlutterloginBoilerPlate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633104210759-ic9otvg5slvoarddlaf0o4imuth3s9jv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.FlutterloginBoilerPlate",
+            "certificate_hash": "146ae3e693ca1f187e433f7a484b8e8a16aa80ec"
+          }
+        },
+        {
+          "client_id": "633104210759-o17p3b1fk5na5erhi751hdntvc8ienvn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.FlutterloginBoilerPlate",
+            "certificate_hash": "ca7d76ad3b008c5c385acc5e1e60c1f2229c64e4"
+          }
+        },
+        {
+          "client_id": "633104210759-th6rmst9g285dbd2nkoght931bshrqfg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIsF0dmr0dzVjUfY0WBIw5cLXggf3wsIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633104210759-th6rmst9g285dbd2nkoght931bshrqfg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
